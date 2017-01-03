@@ -1,0 +1,10 @@
+[branch]
+	autosetuprebase = never
+[user]
+	name = vampelly
+	email = vamp1c@mail.ru
+[push]
+	gefault = simple
+[core]
+	quotepath = off
+	excludesfile = c:\\Users\\duba\\.gitexcludes

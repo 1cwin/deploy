@@ -1,0 +1,12 @@
+*.log
+*.bin
+.gitignore
+*.cf
+*.dt
+*.epf
+*.ert
+*.sel
+*.q1c
+*.txt
+*.mxl
+*/ExternalDataSources/*.xml
