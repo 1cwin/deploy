@@ -1,0 +1,3 @@
+PUSHD %TEMP%
+2>Nul RD /S/Q "%TEMP%"
+POPD
